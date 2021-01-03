@@ -1,1 +1,2 @@
-# projectwhitehatjr24
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
